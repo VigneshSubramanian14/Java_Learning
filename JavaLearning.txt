@@ -1,1 +1,12 @@
 This text file was created for Knowledge purpose
+Interpreter level:
+
+No pointer arithmetic
+Garbage collection
+Array bounds checking
+No illegal data conversions
+Browser level (applies to applets only):
+
+No local file I/O
+Sockets back to host only
+No calls to native methods
