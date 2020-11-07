@@ -4,3 +4,6 @@
 3. Verification
 4. News Feed
 5. Message
+6. Video Call
+7. Audio Call
+8. MemesPage
